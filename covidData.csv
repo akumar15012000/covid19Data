@@ -1,0 +1,429 @@
+Country,Cases,Deaths,Region
+,,,
+United States,5569520,173143,North America
+,,,
+Brazil,3340197,107879,South America
+,,,
+India,2661396,51176,Asia
+,,,
+Russia,927745,15740,Europe
+,,,
+South Africa,587345,11839,Africa
+,,,
+Peru,535946,26281,South America
+,,,
+Mexico,522162,56757,North America
+,,,
+Colombia,468332,15097,South America
+,,,
+Chile,385946,10452,South America
+,,,
+Spain,358843,28617,Europe
+,,,
+Iran,345450,19804,Asia
+,,,
+United Kingdom,319197,41369,Europe
+,,,
+Saudi Arabia,299914,3436,Asia
+,,,
+Argentina,294569,5703,South America
+,,,
+Pakistan,289215,6175,Asia
+,,,
+Bangladesh,279144,3694,Asia
+,,,
+Italy,253915,35396,Europe
+,,,
+Turkey,249309,5974,Asia
+,,,
+Germany,225696,9292,Europe
+,,,
+France,218536,30410,Europe
+,,,
+Iraq,176931,5860,Asia
+,,,
+Philippines,164474,2681,Asia
+,,,
+Indonesia,141370,6207,Asia
+,,,
+Canada,122087,9026,North America
+,,,
+Qatar,115368,193,Asia
+,,,
+Kazakhstan,103033,1269,Asia
+,,,
+Ecuador,101542,6070,South America
+,,,
+Bolivia,100344,4058,South America
+,,,
+Egypt,96475,5160,Africa
+,,,
+Israel,93691,690,Asia
+,,,
+Ukraine,92820,2089,Europe
+,,,
+Dominican Republic,86309,1453,North America
+,,,
+Sweden,85045,5787,Europe
+,,,
+China,84849,4634,Asia
+,,,
+Oman,83226,588,Asia
+,,,
+Panama,81940,1767,North America
+,,,
+Belgium,78323,9939,Europe
+,,,
+Kuwait,76827,502,Asia
+,,,
+Romania,71194,3029,Europe
+,,,
+Belarus,69589,613,Europe
+,,,
+United Arab Emirates,64541,364,Asia
+,,,
+Netherlands,63484,6172,Europe
+,,,
+Guatemala,62562,2379,North America
+,,,
+Poland,57279,1885,Europe
+,,,
+Singapore,55838,27,Asia
+,,,
+Japan (+Diamond Princess),55426,1101,Asia
+,,,
+Portugal,54234,1779,Europe
+,,,
+Honduras,50502,1575,North America
+,,,
+Nigeria,49068,975,Africa
+,,,
+Bahrain,46835,172,Asia
+,,,
+Ghana,42653,239,Africa
+,,,
+Morocco,42489,658,Africa
+,,,
+Kyrgyzstan,41991,1496,Asia
+,,,
+Armenia,41701,824,Asia
+,,,
+Algeria,38583,1370,Africa
+,,,
+Switzerland,38252,1991,Europe
+,,,
+Afghanistan,37599,1375,Asia
+,,,
+Uzbekistan,35513,234,Asia
+,,,
+Azerbaijan,34219,506,Asia
+,,,
+Venezuela,33755,281,South America
+,,,
+Kenya,30365,482,Africa
+,,,
+Moldova,30183,896,Europe
+,,,
+Ethiopia,29876,528,Africa
+,,,
+Serbia,29782,677,Europe
+,,,
+Costa Rica,28465,294,North America
+,,,
+Ireland,27257,1774,Europe
+,,,
+Nepal,27241,107,Asia
+,,,
+Australia,23559,421,Australia/Oceania
+,,,
+Austria,23534,729,Europe
+,,,
+El Salvador,22912,618,North America
+,,,
+Czech Republic (Czechia),20012,397,Europe
+,,,
+Cameroon,18469,401,Africa
+,,,
+Côte d'Ivoire,17026,110,Africa
+,,,
+State of Palestine,16534,110,Asia
+,,,
+Bosnia and Herzegovina,16111,486,Europe
+,,,
+Denmark,15740,621,Europe
+,,,
+South Korea,15515,305,Asia
+,,,
+Bulgaria,14365,498,Europe
+,,,
+Madagascar,13886,171,Africa
+,,,
+North Macedonia,12739,544,Europe
+,,,
+Sudan,12410,803,Africa
+,,,
+Senegal,12237,256,Africa
+,,,
+Norway,10035,261,Europe
+,,,
+Paraguay,9791,138,South America
+,,,
+DR Congo,9676,240,Africa
+,,,
+Zambia,9343,260,Africa
+,,,
+Malaysia,9212,125,Asia
+,,,
+Lebanon,8881,103,Asia
+,,,
+French Guiana,8588,53,South America
+,,,
+Guinea,8482,51,Africa
+,,,
+Gabon,8225,51,Africa
+,,,
+Libya,8172,153,Africa
+,,,
+Tajikistan,8065,64,Asia
+,,,
+Haiti,7879,196,North America
+,,,
+Finland,7752,334,Europe
+,,,
+Luxembourg,7458,123,Europe
+,,,
+Albania,7380,228,Europe
+,,,
+Greece,7075,228,Europe
+,,,
+Mauritania,6701,157,Africa
+,,,
+Croatia,6656,166,Europe
+,,,
+Maldives,5785,22,Asia
+,,,
+Djibouti,5369,59,Africa
+,,,
+Zimbabwe,5261,132,Africa
+,,,
+Malawi,5072,161,Africa
+,,,
+Hungary,4946,608,Europe
+,,,
+Equatorial Guinea,4821,83,Africa
+,,,
+Central African Republic,4652,61,Africa
+,,,
+Hong Kong,4525,69,Asia
+,,,
+Namibia,4154,35,Africa
+,,,
+Nicaragua,4115,128,North America
+,,,
+Montenegro,4035,77,Europe
+,,,
+Eswatini,3839,70,Africa
+,,,
+Congo,3831,76,Africa
+,,,
+Thailand,3378,58,Asia
+,,,
+Cuba,3316,88,North America
+,,,
+Somalia,3256,93,Africa
+,,,
+Cabo Verde,3179,35,Africa
+,,,
+Mayotte,3119,39,Africa
+,,,
+Suriname,3016,47,South America
+,,,
+Slovakia,2907,31,Europe
+,,,
+Sri Lanka,2895,11,Asia
+,,,
+Mozambique,2855,19,Africa
+,,,
+Mali,2640,125,Africa
+,,,
+South Sudan,2489,47,Africa
+,,,
+Rwanda,2453,8,Africa
+,,,
+Lithuania,2436,81,Europe
+,,,
+Slovenia,2429,129,Europe
+,,,
+Estonia,2192,63,Europe
+,,,
+Guinea-Bissau,2117,33,Africa
+,,,
+Tunisia,2107,54,Africa
+,,,
+Benin,2063,39,Africa
+,,,
+Iceland,2014,10,Europe
+,,,
+Sierra Leone,1956,69,Africa
+,,,
+Angola,1906,88,Africa
+,,,
+Gambia,1872,63,Africa
+,,,
+Yemen,1869,530,Asia
+,,,
+Syria,1677,64,Asia
+,,,
+New Zealand,1631,22,Australia/Oceania
+,,,
+Uganda,1500,13,Africa
+,,,
+Uruguay,1440,38,South America
+,,,
+Jordan,1378,11,Asia
+,,,
+Malta,1375,9,Europe
+,,,
+Georgia,1341,17,Asia
+,,,
+Cyprus,1339,20,Asia
+,,,
+Latvia,1323,32,Europe
+,,,
+Bahamas,1315,18,North America
+,,,
+Burkina Faso,1267,55,Africa
+,,,
+Liberia,1257,82,Africa
+,,,
+Botswana,1214,3,Africa
+,,,
+Niger,1167,69,Africa
+,,,
+Togo,1147,27,Africa
+,,,
+Jamaica,1113,14,North America
+,,,
+Aruba,1102,4,North America
+,,,
+Andorra,989,53,Europe
+,,,
+Vietnam,976,24,Asia
+,,,
+Chad,956,76,Africa
+,,,
+Lesotho,903,25,Africa
+,,,
+Sao Tome & Principe,885,15,Africa
+,,,
+Réunion,855,5,Africa
+,,,
+Guyana,709,23,South America
+,,,
+San Marino,699,42,Europe
+,,,
+Channel Islands,607,47,Europe
+,,,
+Trinidad and Tobago,552,11,North America
+,,,
+Tanzania,509,21,Africa
+,,,
+Taiwan,485,7,Asia
+,,,
+Belize,452,3,North America
+,,,
+Guadeloupe,446,14,North America
+,,,
+Burundi,413,1,Africa
+,,,
+Comoros,405,7,Africa
+,,,
+Myanmar,375,6,Asia
+,,,
+Faeroe Islands,373,0,Europe
+,,,
+Mauritius,346,10,Africa
+,,,
+Isle of Man,336,24,Europe
+,,,
+Martinique,336,16,North America
+,,,
+Papua New Guinea,333,3,Australia/Oceania
+,,,
+Sint Maarten,317,17,North America
+,,,
+Turks and Caicos,298,2,North America
+,,,
+Mongolia,298,0,Asia
+,,,
+Eritrea,285,0,Africa
+,,,
+Cambodia,273,0,Asia
+,,,
+Gibraltar,217,0,Europe
+,,,
+Cayman Islands,203,1,North America
+,,,
+French Polynesia,166,0,Australia/Oceania
+,,,
+Bermuda,162,9,North America
+,,,
+Barbados,151,7,North America
+,,,
+Monaco,146,4,Europe
+,,,
+Brunei ,142,3,Asia
+,,,
+Bhutan,141,0,Asia
+,,,
+Seychelles,127,0,Africa
+,,,
+Saint Martin,109,4,North America
+,,,
+Liechtenstein,94,1,Europe
+,,,
+Antigua and Barbuda,93,3,North America
+,,,
+St. Vincent & Grenadines,57,0,North America
+,,,
+Macao,46,0,Asia
+,,,
+Curaçao,34,1,North America
+,,,
+Fiji,28,1,Australia/Oceania
+,,,
+Saint Lucia,25,0,North America
+,,,
+Timor-Leste,25,0,Asia
+,,,
+Grenada,24,0,North America
+,,,
+New Caledonia,23,0,Australia/Oceania
+,,,
+Laos,22,0,Asia
+,,,
+Dominica,18,0,North America
+,,,
+Saint Kitts & Nevis,17,0,North America
+,,,
+Greenland,14,0,North America
+,,,
+Montserrat,13,1,North America
+,,,
+Caribbean Netherlands,13,0,North America
+,,,
+Falkland Islands,13,0,South America
+,,,
+Saint Barthelemy,13,0,North America
+,,,
+Holy See,12,0,Europe
+,,,
+Western Sahara,10,1,Africa
+,,,
+MS Zaandam,9,2,
+,,,
+British Virgin Islands,9,1,North America
+,,,
+Saint Pierre & Miquelon,4,0,North America
+,,,
+Anguilla,3,0,North America
